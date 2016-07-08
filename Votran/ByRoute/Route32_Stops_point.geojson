@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "sname": "DE PLAZA", "lname": "DELTONA PLAZA", "lon": -81.271608000000001, "lat": 28.897200000000002, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.271608, 28.8972 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&STATL", "lname": "CHAS. BEALL & STATLE", "lon": -81.303787999999997, "lat": 28.909023999999999, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.303788, 28.909024 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&HOLLO", "lname": "CHARLES BEALL & HOLL", "lon": -81.304784999999995, "lat": 28.905588999999999, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.304785, 28.905589 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&DEPLA", "lname": "CHAS. BEALL & DEBARY", "lon": -81.305231000000006, "lat": 28.903067, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.305231, 28.903067 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&SHELL", "lname": "CHARLES BEALL & SHEL", "lon": -81.306182000000007, "lat": 28.893201999999999, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.306182, 28.893202 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&HIGH", "lname": "CHARLES BEALL & HIGH", "lon": -81.306864000000004, "lat": 28.891020999999999, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.306864, 28.891021 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&POINS", "lname": "CHARLES BEALL & POIN", "lon": -81.307283999999996, "lat": 28.888960000000001, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.307284, 28.88896 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&HIBIS", "lname": "CHARLES BEALL & HIBI", "lon": -81.308109000000002, "lat": 28.885580999999998, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.308109, 28.885581 ] } },
+{ "type": "Feature", "properties": { "sname": "CB&SMYRN", "lname": "CHARLES BEALL & SMYR", "lon": -81.309420000000003, "lat": 28.881322999999998, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.30942, 28.881323 ] } },
+{ "type": "Feature", "properties": { "sname": "SUNRAIL", "lname": "DEBARY SUNRAIL STATI", "lon": -81.323004999999995, "lat": 28.856335999999999, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.323005, 28.856336 ] } },
+{ "type": "Feature", "properties": { "sname": "STF&DELT", "lname": "STRATFORD COMMONS &", "lon": -81.269927999999993, "lat": 28.898097, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.269928, 28.898097 ] } },
+{ "type": "Feature", "properties": { "sname": "DEL&ENOR", "lname": "DELTONA BLVD & WELLI", "lon": -81.264988000000002, "lat": 28.900594999999999, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.264988, 28.900595 ] } },
+{ "type": "Feature", "properties": { "sname": "SAXON&AP", "lname": "SAXON & N. APACHE DR", "lon": -81.263322000000002, "lat": 28.910851999999998, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.263322, 28.910852 ] } },
+{ "type": "Feature", "properties": { "sname": "SAX&FINL", "lname": "SAXON & W. FINLAND D", "lon": -81.266144999999995, "lat": 28.911194999999999, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.266145, 28.911195 ] } },
+{ "type": "Feature", "properties": { "sname": "PK N RDE", "lname": "PARK N RIDE ST EB", "lon": -81.275283000000002, "lat": 28.911055999999999, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.275283, 28.911056 ] } },
+{ "type": "Feature", "properties": { "sname": "VMP&", "lname": "VET. MEM. PKWY. & ME", "lon": -81.281428000000005, "lat": 28.914171, "ptype": "st" }, "geometry": { "type": "Point", "coordinates": [ -81.281428, 28.914171 ] } },
+{ "type": "Feature", "properties": { "sname": "KOHL'S", "lname": "KOHLS ORANGE CITY IB", "lon": -81.284794000000005, "lat": 28.916574000000001, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.284794, 28.916574 ] } },
+{ "type": "Feature", "properties": { "sname": "SAXON MP", "lname": "SAXON AT MARKET PLAC", "lon": -81.294740000000004, "lat": 28.911593, "ptype": "no" }, "geometry": { "type": "Point", "coordinates": [ -81.29474, 28.911593 ] } }
+]
+}
