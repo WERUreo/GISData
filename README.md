@@ -1,0 +1,11 @@
+# GIS Data
+--------
+While searching for a way to convert GIS data in Shapefile format into GeoJSON, I came across this article by Ben Balter: http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/.  My immediate question was answered right away, and the article gave me step-by-step instructions on how to convert .shp to .geojson using ogr2ogr.  But then, something else caught my eye.  In the next section of his article, titled "Why's this is important", he says:
+
+`For one, you're liberating public geodata that would otherwise be inaccessible to the average citizen and making it available in a dumb-simple point, click, zoom interface that anyone can use.  For another, by putting the information on GitHub in an open, text-based format, civic hackers and subject-matter experts can being treating that data like open source code -- forking, merging, diffing, tracking changes over time -- and all of a sudden we've opened up not just the data, but the entire collaborative ecosystem that now surrounds it.`
+
+Having been a member of [Code for Orlando](http://www.codefororlando.com) for several months now, I like to consider myself a civic hacker.  Reading that passage inspired me to do my part in open sourcing this GIS data for the average citizen and civic hacker alike.
+
+I live in Volusia County, Florida, so I will begin slowly by tracking down and converting data for my area, as well as the surrounding areas.  I've already found that some data is too big to store on GitHub, even in GeoJSON format.  Until I find a solution for that, some data may not be immediately available.  In my searching so far, I have found a lot of GIS data out there.  To get started, I've been converting only data that I think would be interesting and useful, but I would like to continue adding all the data I find eventually.
+
+I hope someone out there finds a good use for this data.  Feel free to fork, merge, diff, and track changes over time.  This data doesn't belong to me; it belongs to everyone!
