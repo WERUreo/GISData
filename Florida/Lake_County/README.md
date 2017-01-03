@@ -1,0 +1,59 @@
+# Lake County GIS Data
+--------
+Data taken from the Lake County web site for GIS Data (http://www.lakecountyfl.gov/departments/information_technology/geographic_information_services/datadownloads.aspx) in Shapefile format, converted to GeoJSON using ogr2ogr.
+
+## List of GIS Data
+----
+- AddressPoints.geojson - This data is meant to show the location of known addresses in Lake County.
+- Airports.geojson - Name, location, use, and elevation of the various public and private airports in Lake County.
+- Annexation.geojson - This layer allows users to accurately identify and represent areas of Lake County serviced by municipal interests.
+- Block.geojson - This feature class contains all block information for subdivisions that have blocks.
+- Blueways.geojson - Waterway trails offer canoeists and kayakers more than 130 miles of paddling bliss.
+- Boatramp.geojson - This point layer provides the locations for both motorized and non-motorized boat ramps, both public and private, in Lake County, Florida.
+- Brownfields.geojson - Brownfields data is provided to assist in the determination of areas with potential for economic revitalization.
+- Census 2010 - This is a folder containing Blocks, Block Groups, and Tracts for the 2010 Census of Lake County.  Each is appended with the P1 Census Table of populations.
+- CityLimits.geojson - This layer allows users to accurately identify and represent areas of Lake County serviced by municipal interests.
+- CommissionDistricts.geojson - Delineation of Commission Districts.
+- CongressionalDistricts.geojson - Boundaries of US Congressional Districts within Lake County, Florida.
+- ConservationEasement.geojson - The data in this layer is temporary in nature as the descriptor 'Easements' as applied to the layer is not accurate.  This layer is fairly complete with regard to platted conservation easements as defined in subdivision plats recorded in Lake County.  This layer should not be relied upon as a source of private ingress/egress easements because it is incomplete in that regard.
+- CountyBoundary.geojson - A graphic depiction of the boundary of Lake County, Florida.
+- CountyParks.geojson - To inventory and identify County Park properties.
+- CountyProperty.geojson - To inventory and identify County owned properties.
+- EmergencyMedicalService.geojson - Inventory and location of Emergency Management planning purposes.
+- FireHydrants.geojson - This data is currently offered as a guide to show the spatial location of known Fire Hydrants in Lake County, and this feature can be used as a tool for hydrant location.
+- FireStations.geojson - Point feature class showing the location of fire stations.
+- FireZone.geojson - Polygon feature class that defines the fire rescue first response zones, or areas of responsibility, for fire stations.  Calls for assistance within the same fire response zone are serviced by the same station.
+- Flood Zones 2012 - Too large for Github
+- FloridaManagedAreas.geojson - To prepare a comprehensive dataset on managed conservation lands by comiling data from diverse sources, and to make this data set available for public use.
+- Geology.geojson - Geologic make-up of Lake County based on information obtained from the Center of Environmental and Natural Resources.
+- GolfCourses.geojson - Polygon feature class of all known golf courses in Lake County, Florida.
+- GovernmentLots.geojson - Polygons representing government lots as they appear on the original government plats.
+- HalfSectionIndex.geojson - This data set is intended to be used as an index to create Mapbook Series' ONLY.
+- HighwayShields.geojson - Used for cartographic labeling of major highways.  The point can be symbolized using the appropriate shield icon and labeled with the highway number.
+- HospitalDistricts.geojson - This data set represents Hospital Taxing Districts in Lake County, Florida as defined in FL House Bill No. 943 and FL Senate Bill No. 2308.  These districts were created and established as independent special taxing districts in Lake County to ensure continued hospital services for the residents of Lake County.
+- Hospitals.geojson - This point file represents Hospitals in Lake County.  It was based on legacy data and updated with new address information acquired from the phone book and cross checked against 2009 aerial photography.
+- ImpactFeeZones.geojson - This dataset represents impact fee zones and includes Road Zones and Parks & Recreation Zones.  They are based on Lake County Code and the Parks & Recreation study of 2003 respectively.
+- LakeXpress - The Lake County Public Transportation fixed route bus routes, and the location of bus stops along those routes.
+- Libraries.geojson - This data set represents the location of all public libraries in the Lake County Library System.  The locations were obtained from the addresses listed on the Lake County Libraries web page and geocoded against the county's StructureLocation feature class.
+- ProtectionAreas.geojson - Polygon feature class representing the boundaries of the Ocala National Forest, Green Swamp Area of Critical State Concern, Lake Apopka LDR, Wekiva River Protection Area and the Wekiva Study Area.
+- PublicLands.geojson - This feature class represents the lands acquired by Lake County through the Public Lands Program.  They are Preserves and Reserves and several are open to public use for passive recreation.
+- RechargeAreas.geojson - Maps of ground water recharge areas are useful planning tools for ground water resource management.  Sections 373.0391, 373.0395, and 373.0397, Florida Statutes, require the water management districts to provide recharge area information to local governments and planning agencies.  Recharge areas of the Floridan aquifer in the St. Johns River Water Management District (SJRWMD) were mapped using a geographic information system to analyze the geologic and hydrologic factors that affect recharge.
+- RightOfWays.geojson - Dedicated public rights-of-way and easements.
+- SectionGrid.geojson - Control lines used to construct the parcel base layer.
+- SenateDistricts.geojson - Boundaries of Florida State Senate Districts.
+- Soil - Too large for Github
+- SolidWasteFacilities.geojson - Data set shows all known solid waste facilities both past and present as of May 2008.  These include landfill, transfer station, recycling facilities, tire collection centers, etc.  Data for this coverage was obtained from Florida Department of Environmental Protection, Lake County records, and institutional knowledge.
+- StorageTanks.geojson - This dataset includes facilities with registered above-ground or underground storage tanks.
+- Streets - Inventory of all known roads in Lake County, Florida.
+- Subdivision Lot - Too large for Github
+- Subdivisions.geojson - Boundaries of platted subdivisions.
+- Tax Parcels - Too large for Github
+- TownshipGrid.geojson - Township/Range lines
+- VotingPolls.geojson - To show where polling places are located.
+- VotingPrecincts.geojson - To show where polling precincts are located.
+- WaterBodies.geojson - The National Hydrography Dataset (NHD) is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system.
+- WaterManagementDistricts.geojson - Statewide map containing the boundaries of the five water management districts.  This layer is intended for cartographic purposes only.
+- WaterSupply.geojson - Water access points for pump trucks in areas where no hydrants are available.
+- Watersheds.geojson - The boundaries of natural and manmade stream-drainage areas.  Included are the boundaries of watersheds.
+- Wetlands.geojson - This dataset contains records of wetlands area location and classification as defined by the U.S. Fish & Wildlife Service.  Data was downloaded in 9/08 from the U.S. Fish & Wildlife Service.
+- Zoning - Too large for Github.

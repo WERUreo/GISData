@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "HospitalID": "HO2", "HospitalNa": "Florida Hospital Waterman", "StreetNumb": "1000", "PrefixDire": null, "PrefixType": null, "StreetName": "Waterman", "SuffixType": "WY", "SuffixDire": null, "Building": null, "UnitType": null, "UnitNumber": null, "City": "Tavares", "ZIPCode": "32778", "Phone": "352-742-8800", "Electrical": "SECO", "Latitude": 28.82377966, "Longitude": -81.711223020000006 }, "geometry": { "type": "Point", "coordinates": [ -81.711223021910072, 28.823779664934815 ] } },
+{ "type": "Feature", "properties": { "HospitalID": "HO4", "HospitalNa": "South Lake Hospital", "StreetNumb": "1900", "PrefixDire": null, "PrefixType": null, "StreetName": "Don Wickham", "SuffixType": "DR", "SuffixDire": null, "Building": null, "UnitType": null, "UnitNumber": "1", "City": "Clermont", "ZIPCode": "34711", "Phone": "352-394-4071", "Electrical": null, "Latitude": 28.552325530000001, "Longitude": -81.721786899999998 }, "geometry": { "type": "Point", "coordinates": [ -81.72178690226616, 28.552325530974933 ] } },
+{ "type": "Feature", "properties": { "HospitalID": "HO3", "HospitalNa": "Leesburg Regional Medical Center", "StreetNumb": "600", "PrefixDire": "E", "PrefixType": null, "StreetName": "Dixie", "SuffixType": "AV", "SuffixDire": null, "Building": "101", "UnitType": null, "UnitNumber": null, "City": "Leesburg", "ZIPCode": "34748", "Phone": "352-323-5762", "Electrical": "Leesburg Electric", "Latitude": 28.808027370000001, "Longitude": -81.868318650000006 }, "geometry": { "type": "Point", "coordinates": [ -81.868318651984012, 28.808027374502107 ] } },
+{ "type": "Feature", "properties": { "HospitalID": "HO5", "HospitalNa": "The Villages Regional Medical Center", "StreetNumb": "1451", "PrefixDire": null, "PrefixType": null, "StreetName": "El Camino Real", "SuffixType": null, "SuffixDire": null, "Building": null, "UnitType": null, "UnitNumber": null, "City": "The Villages", "ZIPCode": "32159", "Phone": "352-751-8000", "Electrical": null, "Latitude": 28.95032629, "Longitude": -81.958335399999996 }, "geometry": { "type": "Point", "coordinates": [ -81.958335400032439, 28.95032629142937 ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMENTS": "Access off Conroy Windermere Rd", "CITY": "Windermere", "ZIP_CODE": 34786, "RAMP_NAME": "Lake Down@ Lake Down" }, "geometry": { "type": "Point", "coordinates": [ -81.52068182195076, 28.493826663426702 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off Chase Rd", "CITY": "Orlando", "ZIP_CODE": 34786, "RAMP_NAME": "RD Keene @ Lake Luise" }, "geometry": { "type": "Point", "coordinates": [ -81.543102154252466, 28.478137777353979 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Magnolia Park", "CITY": "Apopka", "ZIP_CODE": 32703, "RAMP_NAME": "Magnolia @ Lake Apopka" }, "geometry": { "type": "Point", "coordinates": [ -81.550924399453081, 28.632953291281037 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off East  Colonial Dr", "CITY": "Orlando", "ZIP_CODE": 32709, "RAMP_NAME": "State Road 50 @ St. Johns River" }, "geometry": { "type": "Point", "coordinates": [ -80.939898623866156, 28.543898914845951 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off Bywater Dr", "CITY": "Orlando", "ZIP_CODE": 32839, "RAMP_NAME": "Bywater @ Lake Jessamine" }, "geometry": { "type": "Point", "coordinates": [ -81.383529755700124, 28.477041365859773 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Trimble Park", "CITY": "Orlando", "ZIP_CODE": 32757, "RAMP_NAME": "Trimble Park @ Lake Beauclair" }, "geometry": { "type": "Point", "coordinates": [ -81.651110266047056, 28.765906577826208 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "City of Maitland", "CITY": "Maitland", "ZIP_CODE": 32751, "RAMP_NAME": "Lake Destiney @ Lake Lucien" }, "geometry": { "type": "Point", "coordinates": [ -81.391443310052608, 28.62825000442794 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Barnett Park", "CITY": "Orlando", "ZIP_CODE": 32808, "RAMP_NAME": "Lake Lawne @ Barnett Park" }, "geometry": { "type": "Point", "coordinates": [ -81.440375170026897, 28.564098317509263 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off Randolph Av", "CITY": "Orlando", "ZIP_CODE": 32809, "RAMP_NAME": "Randolph Av @ Lake Conway" }, "geometry": { "type": "Point", "coordinates": [ -81.366106988995938, 28.477202633806218 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off Woodsmere Av", "CITY": "Orlando", "ZIP_CODE": 32839, "RAMP_NAME": "Woodsmere @ Lake Jessamine" }, "geometry": { "type": "Point", "coordinates": [ -81.390314009271478, 28.482112774810556 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Access Off S Fern Creek Av", "CITY": "Orlando", "ZIP_CODE": 32806, "RAMP_NAME": "Fern Creek @ Lake Conway" }, "geometry": { "type": "Point", "coordinates": [ -81.359667372433037, 28.489660307018916 ] } },
+{ "type": "Feature", "properties": { "COMMENTS": "Moss Park", "CITY": "Orlando", "ZIP_CODE": 32832, "RAMP_NAME": "Moss Park @ Lake Mary Jane" }, "geometry": { "type": "Point", "coordinates": [ -81.189154718009746, 28.38215142644523 ] } }
+]
+}
